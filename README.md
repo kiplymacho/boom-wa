@@ -19,9 +19,9 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 [![termux](https://img.shields.io/badge/termux-71-yellow.svg?style=flat)](https://sfile.mobi/1Pk3b69xugs7)
 
-[![Script boom-wa](https://img.shields.io/badge/Scriptboom-wa-%2B-yellow.svg?style=flat)](https://sfile.mobi/4xXaPA3ltmL)
+[![Script boomwa](https://img.shields.io/badge/Scriptboomwa-%2B-yellow.svg?style=flat)](https://sfile.mobi/4xXaPA3ltmL)
 
-[![Tokens boom-wa](https://img.shields.io/badge/Tokensboom-wa-%2B-yellow.svg?style=flat)](https://sfile.mobi/2wn9IqyAews)
+[![Tokens boomwa](https://img.shields.io/badge/Tokensboomwa-%2B-yellow.svg?style=flat)](https://sfile.mobi/2wn9IqyAews)
 
 </p>
 <div height='45' align="center">
