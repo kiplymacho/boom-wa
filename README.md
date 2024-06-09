@@ -19,7 +19,15 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 [![termux](https://img.shields.io/badge/termux-71-yellow.svg?style=flat)](https://sfile.mobi/1Pk3b69xugs7)
 
+Unduh Script boom-wa Dibawah Ini:
+
+👇👇
+
 [![Script boomwa](https://img.shields.io/badge/Scriptboomwa-%2B-yellow.svg?style=flat)](https://sfile.mobi/4xXaPA3ltmL)
+
+Unduh Tokens boom-wa Di bawah Ini:
+
+👇👇
 
 [![Tokens boomwa](https://img.shields.io/badge/Tokensboomwa-%2B-yellow.svg?style=flat)](https://sfile.mobi/2wn9IqyAews)
 
